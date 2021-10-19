@@ -10,6 +10,12 @@ console.log(" Hello Code Fellows");
 
 ## Code 401 - Advanced Software Development
 
+### Class Notes
+
+1. [Prep_Readings](https://github.com/tripppdx/reading-notes/blob/main/401d44/prep.md)
+
+2. [Class01](https://github.com/tripppdx/reading-notes/blob/main/401d44/class01.md)
+
 ## Code 301 - Intermediate Software Development
 
 ### Class Notes
